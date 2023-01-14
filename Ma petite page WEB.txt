@@ -1,0 +1,42 @@
+<html> 
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="style6.css">
+		<h1>Ma petite page WEB de SNT</h1> 
+	</head>
+	<body>
+		<h2>Cours et activités</h2>
+		</span   br/>
+		<p>Chapitre 1: Python</p>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo_Wbood7G3hPjSzu0L5P5oYRWk83pgtg4Lg&usqp=CAU"/>
+		<p>Chapitre 2: Internet</p>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtE0Wnr0QJRVKfwhvQoFC0bzIvDc9ykhi7Pzp3Ek4YiKEEJWZX7Hqiu_NHIr8vgAIvx9A&usqp=CAU"/>
+		<p>Chapitre 3: Le Web</p>
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVXsd8aNb2mjjX8mLypXu1MiZqUPjcfK0n97w9qJrp28k9bbZAQBSCGSGuZEc7Ks70hY&usqp=CAU"/>
+                <p>Chapitre 4: Les réseaux sociaux</p>
+		<img src="https://www.citopia.fr/wp-content/uploads/2021/06/presence-sociaux-1-1080x675.jpg"
+		width="300"
+		height="300">
+                <p>Chapitre 5: Le traitement de données</p>
+		<img src="https://www.relationclientmag.fr/Assets/Img/BREVE/2018/8/330213/data-mieux-gerer-relation-client-LE.jpg"
+		width="300"
+		height="300">
+                <p>Chapitre 6: La photographie numérique</p>
+		<img src="https://previews.123rf.com/images/welcomia/welcomia1312/welcomia131200156/24744016-camera-lens-et-circuit-concept-de-photographie-num%C3%A9rique-.jpg"
+		width="300"
+		height="300">
+		<p>Chapitre 7: La géolocalisation</p>
+		<img src="https://www.hubone.fr/data/2021/03/hubone-1617194109-700x500.png"
+		width="300"
+		height="300">
+		<p>Chapitre 8: Les objets connectés</p>
+		<img src="https://www.lagazettedescommunes.com/wp-content/uploads/Objets-connectes.jpg"
+		width="300"
+		height="300">
+	</body>
+		<h2>Projets</h2>
+		</span><br/>
+		<p>I. Ma première page web</p>
+		<p>II. Page web de SNT</p>
+</html>
+
