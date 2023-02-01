@@ -1,0 +1,19 @@
+<html> 
+	<head>
+                <h1>Python</h1>
+		<h2>Activité sur les notions de programmation sur Python.</h2>
+		<p>On a réalisé les programmes avec codeskulptor</p>
+                <img src="Activité sur les notions.png" />
+		<h2>Activité de programmation. Séance 2 du 14 septembre</h2>
+		<img src="codeskulptor2.PNG" />
+		<h2>Activité séance 21 septembre. Partie 1</h2>
+		<img src="codeskulptor3.png" />
+		<h2>Activité séance 21 septembre. Partie 2</h2>
+		<img src="codeskulptor4.png" />
+		<h2>Activité séance 28 septembre</h2>
+		<img src="codeskulptor5.png" />
+		<p>Cliquez ici pour retourner à la page principale</p>
+                <a href="https://samuelzuletalfpv.github.io/Activite1Web">
+                <img src="pageweb.png" width="200px">
+	</body>
+</html> 
